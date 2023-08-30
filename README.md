@@ -1,4 +1,4 @@
-# 🎮PROJETO - Calculadora Simples em Java
+# 🎮PROJETO - Arkanoid em Java
 
 Este é um repositório com o código-fonte necessário para compilar e executar uma versão desenvolvida em Java do Jogo *ARKANOID*.
 
